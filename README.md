@@ -5,17 +5,17 @@ TechnoPropertyNepal is a Python Programming Language based Billing System create
 
 🔧 Key Features:
 
-Text-Based Data Storage – Rental and return data are stored and retrieved from a .txt file
+    Text-Based Data Storage – Rental and return data are stored and retrieved from a .txt file
 
-Land Listings Management – View available land locations and rental status
+    Land Listings Management – View available land locations and rental status
 
-Rental Processing – Rent land based on user input and update rental records
+    Rental Processing – Rent land based on user input and update rental records
 
-Return Handling – Return previously rented land and update availability
+    Return Handling – Return previously rented land and update availability
 
-Search Functionality – Search lands by location or rental status (optional if implemented)
+    Search Functionality – Search lands by location or rental status (optional if implemented)
 
-Simple Console Interface – Easy-to-use interface for user interaction
+    Simple Console Interface – Easy-to-use interface for user interaction
 
 
 🛠️ Tools & Technologies Used:
