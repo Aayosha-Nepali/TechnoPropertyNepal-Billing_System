@@ -1,2 +1,2 @@
 # TechnoPropertyNepal-Billing_System
-TechnoPropertyNepal is a Python Programming Language based Billing System created as an academic project according to my University’s guidelines.
+TechnoPropertyNepal is a Python Programming Language based Billing System created as an academic project according to my University’s guidelines which involves developing a land rental management application for TechnoPropertyNepal, a private company that rents land across various locations in Nepal on a monthly contract basis. The system manages both land rentals and returns, storing all data in a .txt file.
